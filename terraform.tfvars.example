@@ -1,0 +1,4 @@
+yourname       = "yourname"
+location       = "centralus"
+admin_username = "labadmin"
+admin_password = "ChangeMe123!"
